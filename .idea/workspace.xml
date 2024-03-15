@@ -24,12 +24,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="KubernetesApiProvider"><![CDATA[{
-  "isMigrated": true
-}]]></component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2dk9On3AZFMuOYa63Z4QsL1Arvj" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,10 +54,10 @@
     "Spring Boot.CustomerServceApplication.executor": "Run",
     "Spring Boot.DiscoveryServiceApplication.executor": "Run",
     "Spring Boot.GatewayServiceApplication.executor": "Run",
-    "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "21",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/HP/IdeaProjects/bank-account-app",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -77,8 +82,9 @@
         <option value="SpringBootApplicationConfigurationType" />
       </set>
     </option>
+    <option name="openRunningConfigInTab" value="true" />
   </component>
-  <component name="RunManager" selected="Spring Boot.AccountServiceApplication">
+  <component name="RunManager">
     <configuration name="AccountServiceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="account-service" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.accountservice.AccountServiceApplication" />
@@ -137,7 +143,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709114579397</updated>
-      <workItem from="1709114580692" duration="51269000" />
+      <workItem from="1709114580692" duration="52578000" />
+      <workItem from="1710541186182" duration="84000" />
+      <workItem from="1710541294070" duration="421000" />
+      <workItem from="1710541727414" duration="280000" />
     </task>
     <servers />
   </component>
